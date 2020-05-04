@@ -8,4 +8,4 @@ This submission includes:
 * Learning Journal
 * 4 Unity Packages containing Documentation explaining how use them.
 
-For the small game project, please click [here](add link here)
+For the small game project, please click [here](https://github.com/ie2990/SmallGameProject)
